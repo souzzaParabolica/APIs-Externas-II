@@ -1,0 +1,25 @@
+/
+*.py[cod]
+*.pyo
+*.pyd
+
+
+.venv/
+venv/
+env/
+
+ ambiente / segredos
+.env
+
+/
+
+/
+.idea/
+
+
+Thumbs.db
+
+
+graficos/
+dados/
+*.csv
